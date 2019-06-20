@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
+    <!-- <img alt="Vue logo" src="../assets/logo.png"> -->
     {{getName}}
     <HelloWorld msg="Welcome to Your Vue.js App" yay="test"/>
     <button @click="setName('sun')">change to sun</button>
